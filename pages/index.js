@@ -11,7 +11,7 @@ const Home = () => {
             <nav>
                 <h1>
                     Welcome to KAI
-                    E-commerce Dashboard
+                    E-Commerce Dashboard
                 </h1>
             </nav>
 
